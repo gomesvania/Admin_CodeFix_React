@@ -2,7 +2,7 @@ import * as React from "react";
 
 import { ThemeProvider } from "@mui/system";
 import "./App.css";
-import Home from "./app/page";
+import Home from "../src/page";
 
 function App() {
   return (
